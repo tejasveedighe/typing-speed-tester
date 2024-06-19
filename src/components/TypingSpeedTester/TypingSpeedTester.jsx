@@ -3,7 +3,26 @@ import "./TypingSpeedTester.css";
 import TypingArea from "../TypingArea/TypingArea";
 
 const paragraphs = [
-  "this is the string that you have to type in the input box to check your speed",
+  "The quick brown fox jumps over the lazy dog.",
+  "A journey of a thousand miles begins with a single step.",
+  "To be or not to be, that is the question.",
+  "She sells seashells by the seashore.",
+  "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+  "The early bird catches the worm, but the second mouse gets the cheese.",
+  "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+  "All that glitters is not gold; often have you heard that told.",
+  "To succeed in life, you need two things: ignorance and confidence.",
+  "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+  "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+  "In three words I can sum up everything I've learned about life: it goes on.",
+  "You must be the change you wish to see in the world.",
+  "The only limit to our realization of tomorrow is our doubts of today.",
+  "The road to success and the road to failure are almost exactly the same. The only difference is that the road to success is a little bit longer, and you have to keep walking even when you feel like stopping.",
+  "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+  "Don't judge each day by the harvest you reap but by the seeds that you plant. Success is not final, failure is not fatal: It is the courage to continue that counts.",
+  "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+  "Life is what happens when you're busy making other plans. You will face many defeats in life, but never let yourself be defeated. The greatest glory in living lies not in never falling, but in rising every time we fall. In the end, it's not the years in your life that count. It's the life in your years.",
 ];
 
 const TypingSpeedTester = () => {
